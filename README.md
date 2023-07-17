@@ -1,3 +1,3 @@
 # Web-Development
-I have created a home page as clone Of one website.
+I had made one website home page as a clone for mini project.
 
